@@ -1,0 +1,59 @@
+[{
+  "_id": {
+    "$oid": "63174030d0a2e60c76186fd2"
+  },
+  "name": "name4",
+  "email": "email4@email",
+  "password": "$2a$10$xVpB9lxpTDcweeIihk0/seiyl0rAlpzGNoXHZ7/Z0WHPWXwL2xaHq",
+  "isActive": false,
+  "__v": 0,
+  "Favlist": [
+    "dubai",
+    "New York",
+    "Las Vegas",
+    "Paris",
+    "Doha"
+  ]
+},{
+  "_id": {
+    "$oid": "6317478ee3cac9e3c0c59d94"
+  },
+  "name": "email5",
+  "email": "email5@email",
+  "password": "$2a$10$qMapIRv5BixB3fxC.ASNgeQhGP1.BztvZMpaQgmQBNVWZxENf6gdG",
+  "isActive": false,
+  "__v": 0,
+  "Favlist": [
+    "London",
+    "Dubai",
+    "Cape Town"
+  ]
+},{
+  "_id": {
+    "$oid": "631748a6a67b1c6a24c7a54d"
+  },
+  "name": "email6",
+  "email": "email6@email",
+  "password": "$2a$10$3b7SX818UN6wS6dkwhFVAup1xgsoVRX3/k6zelag9SwACLntp5SR.",
+  "isActive": false,
+  "Favlist": [
+    "Marrakesh",
+    "Ibiza Town",
+    "Madrid",
+    "Jeddah"
+  ],
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6318982162774d03b2c1f215"
+  },
+  "name": "saber",
+  "email": "saber@email",
+  "password": "$2a$10$XYJ/BNtVuL9s2yf7EqlVrumr3Sb1i5AbyKptwoQ0AJqNemnJQuJam",
+  "isActive": false,
+  "__v": 0,
+  "Favlist": [
+    "Makkah al Mukarramah",
+    "Casablanca"
+  ]
+}]
